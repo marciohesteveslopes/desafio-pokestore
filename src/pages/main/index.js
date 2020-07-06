@@ -29,7 +29,7 @@ export default class Main extends Component {
                         <strong>{pokemon.name}</strong>
                         <p>{pokemon.url}</p>
 
-                        <a href="">Acessar</a>
+                        
                         
                     </article>
                 ))}
